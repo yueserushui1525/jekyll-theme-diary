@@ -1,6 +1,7 @@
 name: 月色如水的空间
 permalink: :year/:month/:day/:title
-baseurl: /jekyll-theme-diary
+url: "https://yueserushui1525.github.io"
+baseurl: "/jekyll-theme-diary"
 
 # Your blog's start year and this year, showed in the footer left
 # start is optional
